@@ -108,7 +108,8 @@ System.debug(acc);
 * Display the newly created `Account` in the debug logs.
 
 <sub>Example of account created in Salesforce.
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/786770f1-7814-453d-9262-3bf7a99f92c0)
+
 </sub>
 ## 🟣 Summary
 
