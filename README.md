@@ -111,6 +111,7 @@ System.debug(acc);
 ![image](https://github.com/user-attachments/assets/786770f1-7814-453d-9262-3bf7a99f92c0)
 
 </sub>
+
 ## 🟣 Summary
 
 ✅ The `AccountHandler` is now deployed to your Salesforce Organization.
